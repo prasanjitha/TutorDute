@@ -1,0 +1,17 @@
+.p1{
+    padding: 20px;
+    height: 70vh;
+    width: 680px;
+    margin: 40px auto;
+}
+
+.p2{
+    padding: 20px;
+    height: 70vh;
+    width: 680px;
+    margin: -440px auto;
+}
+.myProHead{
+    text-align: center;
+    margin: -2px auto;
+}
